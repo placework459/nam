@@ -1,0 +1,4 @@
+[core]
+    remote = myre
+['remote "myre"']
+    url = s3://sainam/
